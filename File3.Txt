@@ -1,2 +1,7 @@
 welcome to File3
+<<<<<<< Updated upstream
 welcome to BTM Layout
+=======
+hiii
+hello
+>>>>>>> Stashed changes
