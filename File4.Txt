@@ -3,4 +3,9 @@ hello
 how r u
 where r u
 what is ur name
+<<<<<<< Updated upstream
 now adding few more lines
+=======
+adding this to second stash
+last line
+>>>>>>> Stashed changes
